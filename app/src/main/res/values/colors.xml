@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_item_background">#DCEAFF</color>
+    <color name="primary_app_background">#FFFFFF</color>
+
+    <color name="primary_color">#469EF5</color>
+    <color name="outline">#366cd2</color>
+    <color name="primary_accent">#000000</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#000000</color>
+    <color name="tertiary_text">#469EF5</color>
+    <color name="secondary_accent">#EBF3FF</color>
+    <color name="canvas">#FFFFFF</color>
+    <color name="primary_icons_accent">#0E2690</color>
+    <color name="edit_text_outline">#3856ce</color>
+    <color name="edit_text">#edf1fd</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Digit Detect</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="select">Select</string>
+    <string name="send">Send</string>
+    <string name="predicted_image">Predicted Image:</string>
+    <string name="draw">Draw</string>
+    <string name="generate">Generate</string>
+    <string name="predict">Predict</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clear">Clear</string>
+    <string name="image">Image</string>
+    <string name="camera">Camera</string>
+    <string name="capture">Capture</string>
+    <string name="enter_digit">Enter digit</string>
+    <string name="send_button">Send Button</string>
+    <string name="generated_digit">Generated Digit</string>
+    <string name="app_info">App Info</string>
+</resources>
