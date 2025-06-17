@@ -28,7 +28,7 @@
 
 - **Dataset:** [MNIST](http://yann.lecun.com/exdb/mnist/)
 - **Architecture:** 2D Convolutional layers + ReLU + MaxPooling + Dense
-- **Accuracy:** ~99% on test set
+- **Accuracy:** ~95% on test set
 - **Frameworks:** TensorFlow / Keras
 - **Serving:** Flask app with `/predict` POST endpoint
 
